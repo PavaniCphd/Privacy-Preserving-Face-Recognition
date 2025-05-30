@@ -1,5 +1,5 @@
-# PPFRHE
-Privacy Preserving Face recognition
+
+Privacy Preserving Face recognition using HE
 
 steps:  
 1. Install requirements.txt
